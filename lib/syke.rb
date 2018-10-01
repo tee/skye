@@ -1,5 +1,5 @@
 require "syke/version"
+require "syke/email"
 
 module Syke
-  # Your code goes here...
 end
